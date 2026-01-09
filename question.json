@@ -1,0 +1,22 @@
+[{
+        "id": 1,
+        "question": "What is 7 × 8?",
+        "answer": "56",
+        "topic": "Multiplication",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 2,
+        "question": "What is 9 × 6?",
+        "answer": "54",
+        "topic": "Multiplication",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 3,
+        "question": "What is 45 ÷ 5?",
+        "answer": "9",
+        "topic": "Division",
+        "difficulty": "Easy"
+    }
+]
